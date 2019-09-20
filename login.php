@@ -84,7 +84,7 @@
 <a  href="#" class="fa fa-slack" ></a>
 <a href="#" class="fa fa-twitter"></a>
 
-<p>Don't have an account?<a href="#" class="anchor1">Sign up here</a></p>
+<p>Don't have an account?<a href="signup.php" class="anchor1">Sign up here</a></p>
 </div>
 </div>
 </center>
